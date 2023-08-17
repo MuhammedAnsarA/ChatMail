@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "92033409688",
+    "project_id": "wochat-29ac1",
+    "storage_bucket": "wochat-29ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92033409688:android:53692dfe51e87a34c8e6ed",
+        "android_client_info": {
+          "package_name": "abc.fivoza.chat_mail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92033409688-s63i7ncq2pdut59g8bnekktvkssg1n4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-e9KhWDYluJdWvrXxi6htb6uwvlpWRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92033409688-lbsoa08b8ucnb30tk1j7thk48strdlk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "92033409688-4hrmis2gpsf7gg4nl4m1nc9mspdg59ap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.woChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
